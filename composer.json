@@ -1,0 +1,14 @@
+{
+    "name": "goosestudio/wp-json-restrictions",
+    "description": "Adds granular ability to disable/enable endpoints per role. Or disable all together",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Andreas Nurbo",
+            "email": "andreas@goose.studio"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
